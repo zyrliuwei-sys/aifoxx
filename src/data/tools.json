@@ -52667,5 +52667,35 @@
     "industries": [
       "Software"
     ]
-  }
+  },
+{
+  "id": "1027",
+  "name": "Vikas Editor AI",
+  "slug": "vikas-editor-ai",
+  "category": "Image Generation",
+  "subcategory": "Image Editing",
+  "description": "Vikas Editor AI is a creative studio for Indian creators and global users, with cinematic portraits, fashion edits, festival greetings, couple photography, and photo-to-video concepts.",
+  "url": "https://vikas-editor.net/",
+  "tags": [
+    "ai photo editing",
+    "ai video",
+    "cinematic portraits",
+    "Indian creators",
+    "saree edits"
+  ],
+  "pricing": "Freemium",
+  "logo_url": "https://file.submify.app/submission-websites/f55a0a8e-e83c-4517-a287-5074a88d94c0/8c0a92eb-fd16-47c6-8bc5-7e0ded85a898.png",
+  "status": "active",
+  "last_verified": "2026-11-03",
+  "access_methods": [
+    "Web App"
+  ],
+  "use_cases": [
+    "Creating cinematic portraits",
+    "Exploring fashion photo edits",
+    "Preparing festival greetings",
+    "Planning photo-to-video concepts",
+    "Adapting creative prompts"
+  ]
+}
 ]
